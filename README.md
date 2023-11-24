@@ -35,7 +35,7 @@ The ONE BUTTON GAME BUILDER is equipped with the following [description](./descr
 > 9. Add sound effects using the `play()` function.
 > 10. Once the game implementation is complete, present the entire source code.
 
-Additionally, [knowledge](./doc/knowledge/) is provided, including texts for brainstorming one-button action mini-game ideas, and type definition files for functions and variables in crisp-game-lib, along with sample game codes.
+Additionally, [knowledge](./knowledge/) is provided, including texts for brainstorming one-button action mini-game ideas, and type definition files for functions and variables in crisp-game-lib, along with sample game codes.
 
 Users provide a game theme to the ONE BUTTON GAME BUILDER, which then generates five mini-game ideas based on the theme. Users select their preferred idea by number. Then, the game's rules and corresponding code are sequentially output. If users wish to modify the rules or code, they can provide instructions accordingly.
 
