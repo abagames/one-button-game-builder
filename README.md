@@ -6,15 +6,13 @@ The ONE BUTTON GAME BUILDER is a tool powered by [GPTs](https://openai.com/blog/
 
 # Examples of Built Games
 
+Click the image below to play directly in the browser.
+
 [![laserdeflection screenshot](./docs/laserdeflection/screenshot.gif)](https://abagames.github.io/one-button-game-builder/?laserdeflection)
-
 [![laststand screenshot](./docs/laststand/screenshot.gif)](https://abagames.github.io/one-button-game-builder/?laststand)
-
 [![towerclimb screenshot](./docs/towerclimb/screenshot.gif)](https://abagames.github.io/one-button-game-builder/?towerclimb)
-
-[![bubblebounce screenshot](./docs/bubblebounce/screenshot.gif)](https://abagames.github.io/one-button-game-builder/?bubblebounce)
-
 [![timetravelrun screenshot](./docs/timetravelrun/screenshot.gif)](https://abagames.github.io/one-button-game-builder/?timetravelrun)
+[![bubblebounce screenshot](./docs/bubblebounce/screenshot.gif)](https://abagames.github.io/one-button-game-builder/?bubblebounce)
 
 # How it Works
 
