@@ -84,7 +84,7 @@ function update() {
 function createLaser() {
   const sa = rnd(PI * 2);
   const startPos = vec(50, 50).addWithAngle(sa, 70);
-  const speed = (1 + rnd(difficulty - 1)) * 0.5;
+  const speed = (1 + rnd(sqrt(difficulty) - 1)) * 0.5;
   const angle = startPos.angleTo(50, 50) + rnds(0.2);
   const velocity = vec(speed).rotate(angle);
   play("laser");
