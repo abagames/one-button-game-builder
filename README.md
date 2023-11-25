@@ -1,8 +1,8 @@
 # one-button-game-builder
 
-The ONE BUTTON GAME BUILDER is a tool powered by [GPTs](https://openai.com/blog/introducing-gpts) that facilitates the creation of one-button action mini-games using the [crisp-game-lib](https://github.com/abagames/crisp-game-lib) framework. It operates by following a series of steps to interact with the user and generate a custom game based on their input.
+The One Button Game Builder is a tool powered by [GPTs](https://openai.com/blog/introducing-gpts) that facilitates the creation of one-button action mini-games using the [crisp-game-lib](https://github.com/abagames/crisp-game-lib) framework. It operates by following a series of steps to interact with the user and generate a custom game based on their input.
 
-- [ONE BUTTON GAME BUILDER](https://chat.openai.com/g/g-cpVkJ5jXz-one-button-game-builder)
+- [One Button Game Builder](https://chat.openai.com/g/g-cpVkJ5jXz-one-button-game-builder)
 
 # Examples of Built Games
 
@@ -16,7 +16,7 @@ Click the image below to play directly in the browser.
 
 # How it Works
 
-The ONE BUTTON GAME BUILDER is equipped with the following [description](./description.txt):
+The One Button Game Builder is equipped with the following [description](./description.txt):
 
 > This GPT is designed to facilitate the creation of a one-button action mini-game, which can be operated with a single button and follows a minimal set of rules and characters. The conversation with the user will be structured in 10 steps:
 >
@@ -37,11 +37,11 @@ The ONE BUTTON GAME BUILDER is equipped with the following [description](./descr
 
 Additionally, [knowledge](./knowledge/) is provided, including texts for brainstorming one-button action mini-game ideas, and type definition files for functions and variables in crisp-game-lib, along with sample game codes.
 
-Users provide a game theme to the ONE BUTTON GAME BUILDER, which then generates five mini-game ideas based on the theme. Users select their preferred idea by number. Then, the game's rules and corresponding code are sequentially output. If users wish to modify the rules or code, they can provide instructions accordingly.
+Users provide a game theme to the One Button Game Builder, which then generates five mini-game ideas based on the theme. Users select their preferred idea by number. Then, the game's rules and corresponding code are sequentially output. If users wish to modify the rules or code, they can provide instructions accordingly.
 
-It may be challenging to output fully functional code with the ONE BUTTON GAME BUILDER. Once a reasonably valid code is generated, it's recommended to copy it into an editor and perform manual adjustments.
+It may be challenging to output fully functional code with the One Button Game Builder. Once a reasonably valid code is generated, it's recommended to copy it into an editor and perform manual adjustments.
 
-For example, the following is a conversation with the ONE BUTTON GAME BUILDER when Laser Deflection was created.
+For example, the following is a conversation with the One Button Game Builder when Laser Deflection was created.
 
 - [Game Theme Discussion](https://chat.openai.com/share/632fb7ad-d5f9-4d62-8bc8-87169e9ce034)
 
