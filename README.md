@@ -35,7 +35,7 @@ The One Button Game Builder is equipped with the following [description](./descr
 > 9. Add sound effects using the `play()` function.
 > 10. Once the game implementation is complete, present the entire source code.
 
-Additionally, [knowledge](./knowledge/) is provided, including texts for brainstorming one-button action mini-game ideas, and type definition files for functions and variables in crisp-game-lib, along with sample game codes.
+Additionally, [knowledge](./knowledge/) is provided, including articles for brainstorming one-button action mini-game ideas ('[How to Come Up with Ideas for Small Games](https://abagames.github.io/joys-of-small-game-development-en/ideas/)' and '[The Possibilities of One-Button Games](https://abagames.github.io/joys-of-small-game-development-en/restrictions/one_button.html)'), and type definition files for functions and variables in crisp-game-lib, along with sample game codes.
 
 Users provide a game theme to the One Button Game Builder, which then generates five mini-game ideas based on the theme. Users select their preferred idea by number. Then, the game's rules and corresponding code are sequentially output. If users wish to modify the rules or code, they can provide instructions accordingly.
 
