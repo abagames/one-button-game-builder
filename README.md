@@ -2,7 +2,7 @@
 
 The One Button Game Builder is a tool powered by [GPTs](https://openai.com/blog/introducing-gpts) that facilitates the creation of one-button action mini-games using the [crisp-game-lib](https://github.com/abagames/crisp-game-lib) framework. It operates by following a series of steps to interact with the user and generate a custom game based on their input.
 
-- [One Button Game Builder](https://chat.openai.com/g/g-cpVkJ5jXz-one-button-game-builder)
+- [One Button Game Builder](https://chat.openai.com/g/g-cpVkJ5jXz-one-button-game-builder) (Requires ChatGPT Plus)
 
 # Examples of Built Games
 
