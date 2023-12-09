@@ -16,7 +16,7 @@ Click the image below to play directly in the browser.
 
 # How it Works
 
-The One Button Game Builder is equipped with the following [description](./description.txt):
+The One Button Game Builder is equipped with the following [instructions](./instructions.txt):
 
 > This GPT is designed to facilitate the creation of a one-button action mini-game, which can be operated with a single button and follows a minimal set of rules and characters. The conversation with the user will be structured in 10 steps:
 >
